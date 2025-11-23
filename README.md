@@ -21,23 +21,24 @@ All the data is saved in text files so the user cannot forget its study tracking
 
 ## How it works
 when user selects:
-1 > Add Study Entry
+- Add Study Entry
    program asks :
    Date(DD_MM_YYYY)
    Subject:
    Hours studied:
   Entry is saved to study.txt
-2 > Add Task Done
+- Add Task Done
    program asks:
    Enter task done:
-3 > View Score
+- View Score
    program reads both files, counts values and prints:
    Total study hours
    Total tasks completed 
    Productivity score
-4 > EXIT
+- EXIT
    program Stops.
-
+  <img width="665" height="913" alt="Screenshot 2025-11-24 000852" src="https://github.com/user-attachments/assets/2f5fc0f7-35de-46e2-8cec-1cb7a2604b9b" />
+  
 ## sample output 
 <img width="303" height="202" alt="Screenshot 2025-11-23 233707" src="https://github.com/user-attachments/assets/0f3617a2-2eb8-49ba-b0e2-8f0a31bd22e2" />
 
@@ -49,3 +50,4 @@ when user selects:
 ## AUTHOR 
 ADITYA DEV
 Student Project - Productivity Tracking Bot.
+
